@@ -1,4 +1,3 @@
-# job-tracker-backend
 # 📂 Job Tracker Backend API
 
 A full-featured backend REST API to manage job applications. Built with **Java**, **Spring Boot**, and **MySQL**.
